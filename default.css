@@ -1,0 +1,83 @@
+
+hh
+{
+    font-size: 30pt;
+    font-style: oblique;
+}    
+
+.mid
+{
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    background: lightsteelblue;
+}
+
+.bot
+{
+    border-top: 10px solid red;
+    width: 50%;
+    float: right;
+    background: white;
+}
+
+.bot1
+{
+    color: silver;
+    margin: auto;
+    width: 100%;
+    background: white;
+}
+
+.redimg
+{
+    margin: 10px;
+    width: 40%;
+    background: red;
+}
+
+.icon
+{
+    margin: 0px;
+    width: 40%;
+    background: powderblue;
+}
+
+.bot2
+{
+    border: 1px solid blue;
+    margin: 0px;
+    width: 30%;
+    background: white;
+    float: right;
+}
+
+.bot3
+{
+    margin: 0px;
+    width: 30%;
+    background: palegreen;
+    float: right;
+}
+
+.bot4
+{
+    margin: 0px;
+    width: 100%;
+    background: while;
+    border: 1px solid silver;
+}
+
+.redimg1
+{
+    margin: 10px;
+    width: 90%;
+    background: red;
+}
+
+.bot5
+{
+    margin: 0px;
+    width: 40%;
+    background: powderblue;
+}
